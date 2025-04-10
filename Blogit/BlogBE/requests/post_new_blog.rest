@@ -1,0 +1,11 @@
+
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+  {
+    "title" : "Yeah but no but yeah",
+    "author" : "Vicky Pollard",
+    "url" : "http://forsureyeahbutno.yolo",
+    "likes" : "2",
+    "userId" : "67d6e9f03e4133f7d09b182b"
+  }
